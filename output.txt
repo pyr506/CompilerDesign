@@ -1,5 +1,3 @@
-
-C:\JavaLib\proj3>java -cp ".;C:\JavaLib\antlr-4.9.3-complete.jar" org.antlr.v4.runtime.misc.TestRig Rose program 
 	.data
 N:	.word	 0
 S:	.word	 0
